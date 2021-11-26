@@ -1,2 +1,2 @@
 # Mycity
-Gra na pliku .bat
+Gra Polska
